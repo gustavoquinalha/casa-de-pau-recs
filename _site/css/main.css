@@ -38,8 +38,6 @@ body {
 a {
   color: #268bd2;
   text-decoration: none; }
-  a:hover, a:focus {
-    text-decoration: underline; }
 
 h1,
 h2,
@@ -1229,12 +1227,26 @@ a {
   width: 90%;
   margin: 0 auto; }
 
+.cards .card .item-card .list-post-title {
+  font-size: 1em; }
+
+.cards .card .item-card .list-post-title a:hover {
+  color: #50FA7B !important; }
+
 .item-card-image {
   background: #222;
   widows: 100%;
-  min-height: 300px;
+  height: auto;
   border-radius: 4px;
   margin-bottom: 10px; }
+
+.video-youtube {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px; }
+
+.video-youtube iframe {
+  max-width: 100%; }
 
 .highlight .hll {
   background-color: #ffffcc; }

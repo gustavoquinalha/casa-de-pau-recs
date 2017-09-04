@@ -2,20 +2,18 @@
 layout: default
 ---
 
-
-
-
 {% include headerIntro.html %}
 
 <div class="wrap container margin size cards">
-     {% if site.posts.size == 0 %}
-    <h2>No post found</h2>
-    {% else %}
-   {% for post in site.posts %}
-  <div class="card col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12" >
+  {% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+  {% else %} {% for post in site.posts %}
+  <div class="card col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12">
     <div class="item-card">
       <div class="item-card-image">
-
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <img src="http://img.youtube.com/vi/{{ post.youtube }}/0.jpg" width="100%" alt="">
+        </a>
       </div>
       <div class="item-card-title">
         <h2 class="list-post-title flex-grow-1">
@@ -26,8 +24,5 @@ layout: default
     </div>
   </div>
 
-
-{% endfor %}
-{% endif %}
+  {% endfor %} {% endif %}
 </div>
-

@@ -3,14 +3,14 @@
   <channel>
     <title>jekyll admin</title>
     <description>jekyll admin</description>
-    <link>http://localhost:4000/jekyll-admin/</link>
-    <atom:link href="http://localhost:4000/jekyll-admin/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Sep 2017 13:57:05 -0300</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2017 13:57:05 -0300</lastBuildDate>
+    <link>/jekyll-admin/</link>
+    <atom:link href="/jekyll-admin/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Sep 2017 15:01:57 -0300</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2017 15:01:57 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Gs - Mensagem | Part. Natkym (Beat: Gangueragem)</title>
+        <title>ÍZ - Heathcliff - (Beat: BluntedBeatz)</title>
         <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
 
 &lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
@@ -34,31 +34,27 @@
   &lt;li&gt;palavra&lt;/li&gt;
   &lt;li&gt;palavra&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg&quot; alt=&quot;Gatinho branco com carinha de coitado&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 May 2017 17:46:41 -0300</pubDate>
-        <link>http://localhost:4000/jekyll-admin/gs-mensagem/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-admin/gs-mensagem/</guid>
+        <pubDate>Wed, 23 Aug 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/iz-heathcliff/</link>
+        <guid isPermaLink="true">/jekyll-admin/iz-heathcliff/</guid>
         
         
         <category>album</category>
         
         <category>rap</category>
         
-        <category>gs</category>
+        <category>ÍZ</category>
         
-        <category>natkym</category>
-        
-        <category>gangueragem</category>
+        <category>Heathcliff</category>
         
         <category>maringa</category>
         
       </item>
     
       <item>
-        <title>DEMUB - Eles Querem Me Prender (Beat: DJ Samu)</title>
-        <description>&lt;p&gt;sds# Heading 1&lt;/p&gt;
+        <title>KAOSATACK - País corrupção</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
 
 &lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
 
@@ -81,19 +77,345 @@
   &lt;li&gt;palavra&lt;/li&gt;
   &lt;li&gt;palavra&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg&quot; alt=&quot;Gatinho branco com carinha de coitado&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 May 2017 17:46:41 -0300</pubDate>
-        <link>http://localhost:4000/jekyll-admin/demub-eles-querem-me-prender/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-admin/demub-eles-querem-me-prender/</guid>
+        <pubDate>Tue, 15 Aug 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/kaosatack-pais/</link>
+        <guid isPermaLink="true">/jekyll-admin/kaosatack-pais/</guid>
         
         
         <category>album</category>
         
         <category>rap</category>
         
-        <category>demub</category>
+        <category>KAOSATACK</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>MUNDRUNGO - Inimigo Público Nº 1 (Beat: Gangueragem)</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 08 Aug 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/mundrungo-inimigo/</link>
+        <guid isPermaLink="true">/jekyll-admin/mundrungo-inimigo/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>MUNDRUNGO</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>CLANDESTINA - Mãe Solo (Beat: Rasec Tkz)</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 01 Aug 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/clandestina-mae-solo/</link>
+        <guid isPermaLink="true">/jekyll-admin/clandestina-mae-solo/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>CLANDESTINA</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>JRM - Linha de pipa (Beat: FubaBeats)</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 25 Jul 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/jrm-pipa/</link>
+        <guid isPermaLink="true">/jekyll-admin/jrm-pipa/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>JRM</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>REVOLUSOM - Construindo na Casa de Pau (Beat: TIO D)</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 19 Jul 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/revolusom-contruindo/</link>
+        <guid isPermaLink="true">/jekyll-admin/revolusom-contruindo/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>revolusom</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>Packe - Instinto</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 11 Jul 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/packe-instinto/</link>
+        <guid isPermaLink="true">/jekyll-admin/packe-instinto/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>packe</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>BlackShock - Em honra à cor da pele (Beat: BlackShock)</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/blackshock-honra/</link>
+        <guid isPermaLink="true">/jekyll-admin/blackshock-honra/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>blackShock</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>INDiEgente - Elevem ( Beat: Massant )</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 27 Jun 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/indiegente-elevem/</link>
+        <guid isPermaLink="true">/jekyll-admin/indiegente-elevem/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>revolusom</category>
+        
+        <category>maringa</category>
+        
+      </item>
+    
+      <item>
+        <title>YASMIN - Desabafo</title>
+        <description>&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim itaque saepe, a illum mollitia ducimus corporis aliquid error, neque quisquam sequi quaerat nemo quos non quasi, rerum.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+  &lt;li&gt;palavra&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 20 Jun 2017 17:46:41 -0300</pubDate>
+        <link>/jekyll-admin/yasmin-desabafo/</link>
+        <guid isPermaLink="true">/jekyll-admin/yasmin-desabafo/</guid>
+        
+        
+        <category>album</category>
+        
+        <category>rap</category>
+        
+        <category>revolusom</category>
         
         <category>maringa</category>
         

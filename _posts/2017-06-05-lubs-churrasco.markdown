@@ -1,9 +1,10 @@
 ---
 layout: post
-ep: "CPD04"
-title:  "Gs - Mensagem | Part. Natkym (Beat: Gangueragem)"
-date:   2017-05-08 17:46:41 -0300
-categories: album rap gs natkym gangueragem maringa
+ep: "CPD08"
+title:  "LUBS - Churrasco ( Beat: Gangueragem/LVCIS )"
+date:   2017-05-29 17:46:41 -0300
+categories: album rap lubs churrasco maringa
+youtube: "uhlmRTQAuyM"
 ---
 
 # Heading 1
@@ -25,5 +26,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim it
 1. palavra
 1. palavra
 1. palavra
-
-![Gatinho branco com carinha de coitado](https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg)

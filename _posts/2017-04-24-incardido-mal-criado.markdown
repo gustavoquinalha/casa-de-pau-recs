@@ -1,11 +1,13 @@
 ---
 layout: post
-ep: "CPD03"
-title:  "DEMUB - Eles Querem Me Prender (Beat: DJ Samu)"
-date:   2017-05-01 17:46:41 -0300
+ep: "CPD02"
+title:  "Incardido - Malcriado e feliz ( Beat: Gangueragem )"
+date:   2017-04-24 17:46:41 -0300
 categories: album rap demub maringa
+youtube: "a3Uha0U4mJE"
 ---
-sds# Heading 1
+
+# Heading 1
 
 ## Heading 2
 
@@ -24,5 +26,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim it
 1. palavra
 1. palavra
 1. palavra
-
-![Gatinho branco com carinha de coitado](https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg)
