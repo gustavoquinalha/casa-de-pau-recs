@@ -48,7 +48,9 @@ h4,
 h5,
 h6 {
   margin-top: 0;
-  margin-bottom: .5rem;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
   font-weight: 600;
   line-height: 1.1;
   color: #333;
@@ -141,6 +143,14 @@ blockquote {
   border-left: .5rem solid #e5e5e5; }
   blockquote p:last-child {
     margin-bottom: 0; }
+
+time {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 0;
+  font-size: 12px; }
 
 code,
 pre {
@@ -1205,6 +1215,26 @@ header {
 
 a {
   color: #333; }
+
+.cards {
+  padding-bottom: 30px; }
+
+.cards .card {
+  box-sizing: border-box;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+.cards .card .item-card {
+  box-sizing: border-box;
+  width: 90%;
+  margin: 0 auto; }
+
+.item-card-image {
+  background: #222;
+  widows: 100%;
+  min-height: 300px;
+  border-radius: 4px;
+  margin-bottom: 10px; }
 
 .highlight .hll {
   background-color: #ffffcc; }

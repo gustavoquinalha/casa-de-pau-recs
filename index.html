@@ -6,21 +6,28 @@ layout: default
 
 
 {% include headerIntro.html %}
-<div class="">
-  {% if site.posts.size == 0 %}
+
+<div class="wrap container margin size cards">
+     {% if site.posts.size == 0 %}
     <h2>No post found</h2>
-  {% else %}
-    {% for post in site.posts %}
-      <div class="list-item">
-        <h2 class="list-post-title">
+    {% else %}
+   {% for post in site.posts %}
+  <div class="card col-12 col-xl-4 col-lg-4 col-md-6 col-sm-12" >
+    <div class="item-card">
+      <div class="item-card-image">
+
+      </div>
+      <div class="item-card-title">
+        <h2 class="list-post-title flex-grow-1">
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h2>
-        <div class="list-post-date">
-          <time>{{ post.date | date_to_string }}</time>
-        </div>
+        <time class="flex-basis-50">{{ post.date | date_to_string }}</time>
       </div>
-    {% endfor %}
-  {% endif %}
-</div>
+    </div>
+  </div>
 
+
+{% endfor %}
+{% endif %}
+</div>
 

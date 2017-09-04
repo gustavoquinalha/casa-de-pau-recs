@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Hello Minimal!"
-date:   2016-03-17 23:28:03 -0300
-categories: start blog
+ep: "CPD03"
+title:  "DEMUB - Eles Querem Me Prender (Beat: DJ Samu)"
+date:   2017-05-01 17:46:41 -0300
+categories: album rap demub maringa
 ---
-
-# Heading 1
+sds# Heading 1
 
 ## Heading 2
 

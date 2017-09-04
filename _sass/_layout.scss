@@ -1,3 +1,27 @@
 a {
-  color: #333 
+    color: #333
+}
+
+.cards {
+    padding-bottom: 30px;
+}
+
+.cards .card {
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cards .card .item-card {
+    box-sizing: border-box;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.item-card-image {
+  background: #222;
+  widows: 100%;
+  min-height: 300px;
+  border-radius: 4px;
+  margin-bottom: 10px;
 }
