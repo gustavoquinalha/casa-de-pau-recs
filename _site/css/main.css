@@ -1200,6 +1200,9 @@ tbody tr:nth-child(odd) th {
 
   .align-items-xl-stretch {
     align-items: stretch; } }
+header {
+  width: 100%; }
+
 a {
   color: #333; }
 

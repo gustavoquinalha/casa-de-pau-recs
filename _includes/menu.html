@@ -1,9 +1,49 @@
-<div class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}<span>&#39;s blog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for page in site.pages %} {% if page.title %}
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> {% endif %} {% endfor %}
-  </nav>
+<div class="relative-menu">
+  <div class="menu">
+    <div class="menu-content size margin container align-items-center justify-content-between full-height">
+      <h1 class="menu-logo">
+        <a href="{{ site.baseurl }}/">Casa de Pau</a>
+      </h1>
+      <nav class="menu-links">
+        {% for page in site.pages %} {% if page.title %}
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> {% endif %} {% endfor %}
+      </nav>
+    </div>
+  </div>
 </div>
+
+<style>
+  .relative-menu,
+  .menu,
+  .menu-content {
+    min-height: 100px;
+    background: #222;
+    color: #fff;
+  }
+  .relative-menu .menu .menu-content a {
+    color: #fff;
+  }
+
+  .relative-menu {
+    width: 100%;
+    position: relative
+  }
+
+  .menu {
+    position: fixed;
+    width: 100%;
+  }
+  .menu-logo {
+    font-size: 2em
+  }
+
+  .menu-content {}
+  @media screen and (max-width: 480px) {
+    .menu-links {
+      display: none
+    }
+    .menu-logo {
+    font-size: 1.5em
+  }
+  }
+</style>

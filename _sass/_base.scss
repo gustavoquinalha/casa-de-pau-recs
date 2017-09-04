@@ -293,4 +293,8 @@ tbody tr:nth-child(odd) th {
     text-align: center;
 }
 
-@import "_grid.scss"
+@import "_grid.scss";
+
+header {
+    width: 100%
+}

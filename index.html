@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-<div class="content list">
+
+
+
+
+{% include headerIntro.html %}
+<div class="">
   {% if site.posts.size == 0 %}
     <h2>No post found</h2>
   {% else %}
@@ -17,3 +22,5 @@ layout: default
     {% endfor %}
   {% endif %}
 </div>
+
+
