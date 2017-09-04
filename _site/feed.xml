@@ -3,10 +3,10 @@
   <channel>
     <title>jekyll admin</title>
     <description>jekyll admin</description>
-    <link>http://localhost:4000/jekyll-admin/</link>
-    <atom:link href="http://localhost:4000/jekyll-admin/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Sep 2017 12:09:08 -0300</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2017 12:09:08 -0300</lastBuildDate>
+    <link>/jekyll-admin/</link>
+    <atom:link href="/jekyll-admin/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Sep 2017 12:10:59 -0300</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2017 12:10:59 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -38,8 +38,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg&quot; alt=&quot;Gatinho branco com carinha de coitado&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Mar 2016 23:28:03 -0300</pubDate>
-        <link>http://localhost:4000/jekyll-admin/hello-minimal/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-admin/hello-minimal/</guid>
+        <link>/jekyll-admin/hello-minimal/</link>
+        <guid isPermaLink="true">/jekyll-admin/hello-minimal/</guid>
         
         
         <category>start</category>
@@ -66,8 +66,8 @@
 
 </description>
         <pubDate>Sun, 13 Mar 2016 17:46:41 -0300</pubDate>
-        <link>http://localhost:4000/jekyll-admin/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-admin/welcome-to-jekyll/</guid>
+        <link>/jekyll-admin/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/jekyll-admin/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
