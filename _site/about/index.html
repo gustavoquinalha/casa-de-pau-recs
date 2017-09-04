@@ -23,7 +23,7 @@
         <a href="/jekyll-admin/contact/">Contact</a>        
       </nav>
 
-      <div class="menu-hamburg">
+      <div class="menu-hamburg" id="btnShowMenu">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"
           stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
           <line x1="3" y1="12" x2="21" y2="12"></line>
@@ -31,8 +31,10 @@
           <line x1="3" y1="18" x2="21" y2="18"></line>
         </svg>
       </div>
-
     </div>
+
+    <div class="menu-content-responsive menu-close" id="menuResponsive"></div>
+
   </div>
 </div>
 
@@ -65,7 +67,8 @@
 
   .menu-hamburg {
     display: none;
-    transition: .3s
+    transition: .3s;
+    cursor: pointer
   }
   @media screen and (max-width: 480px) {
     .menu-links {
@@ -78,6 +81,57 @@
       display: block
     }
   }
+
+
+  .menu-content-responsive {
+    width: 100vw;
+    height: 100vh;
+    background: #ccc;
+    position: fixed
+  }
+
+
+
+  .menu-open {
+  transition: .5s;
+  display: block!important;
+  animation-name: menuOpen;
+  animation-duration: .5s;
+  animation-fill-mode: backwards; /*forwards backwards */
+  /*animation-iteration-count: infinite;*/
+  animation-timing-function: linear;
+}
+
+.menu-close {
+  transition: .5s;
+  display: none;
+  animation-name: menuClose;
+  animation-duration: .5s;
+  animation-fill-mode: backwards; /*forwards backwards */
+  /*animation-iteration-count: infinite;*/
+  animation-timing-function: linear;
+  transform: translateX(-100vh);
+}
+@keyframes menuOpen {
+  from{
+       /*opacity: 0;*/
+       transform: translateX(-100vh);
+     }
+    to {
+      /*opacity: 1;*/
+      transform: translateX(0px);
+    }
+}
+@keyframes menuClose {
+  from{
+       /*opacity: 1;*/
+       transform: translateX(0px);
+     }
+    to {
+      /*opacity: 0;*/
+      transform: translateX(-100vh);
+    }
+}
 </style>
 </header>
 
@@ -88,5 +142,6 @@
 </article>
 
   </div>
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
